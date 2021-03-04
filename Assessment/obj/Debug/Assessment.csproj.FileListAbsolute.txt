@@ -1,0 +1,7 @@
+C:\Users\boofh\OneDrive\Documents\Uni\Year1\Semester2\CAB201\Assessment\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\boofh\OneDrive\Documents\Uni\Year1\Semester2\CAB201\Assessment\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\boofh\OneDrive\Documents\Uni\Year1\Semester2\CAB201\Assessment\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\boofh\OneDrive\Documents\Uni\Year1\Semester2\CAB201\Assessment\Assessment\Assessment\obj\Debug\Assessment.csprojAssemblyReference.cache
+C:\Users\boofh\OneDrive\Documents\Uni\Year1\Semester2\CAB201\Assessment\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+C:\Users\boofh\OneDrive\Documents\Uni\Year1\Semester2\CAB201\Assessment\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\boofh\OneDrive\Documents\Uni\Year1\Semester2\CAB201\Assessment\Assessment\Assessment\obj\Debug\Assessment.pdb
